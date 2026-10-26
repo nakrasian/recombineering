@@ -1,0 +1,35 @@
+# Large inputs, derived databases, and logs — never published.
+# The results bundle in Recombinase_Search/share/data/ is the only data that ships.
+
+# --- dataset inputs and derived databases (GBs) ---
+/Recombinase_Search/data/
+/Recombinase_Search/db/
+/Recombinase_Search/phastest/
+/Recombinase_Search/genomad_db/
+/Recombinase_Search/genomad_out/
+/Recombinase_Search/ani/
+/Recombinase_Search/layouts/
+/Recombinase_Search/ncbi_dataset/
+Recombinase_Search/*.fna
+Recombinase_Search/*.faa
+Recombinase_Search/*.zip
+
+# --- raw tool output and logs (distilled versions live in share/data/) ---
+Recombinase_Search/results/*.out
+Recombinase_Search/results/*.domtbl
+Recombinase_Search/results/*.err
+*.log
+
+# --- one-off analysis scripts: hardcode /Users/... absolute paths. ---
+# Rework them onto share/build_bundle.py before publishing, or sanitise the paths.
+/Recombinase_Search/results/*.py
+/Recombinase_Search/build_121_dedup.py
+
+# --- local environment / OS noise ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+SSB_Comparison/venv/
+.DS_Store
+.ipynb_checkpoints/

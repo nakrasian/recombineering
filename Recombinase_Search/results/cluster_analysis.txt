@@ -1,0 +1,45 @@
+CLUSTER / THRESHOLD DIAGNOSTICS (average linkage)
+Family	best_k	best_silhouette	k@d=30(70%)	k@d=10(90%)
+RecT	5	0.600	6	10
+ERF	2	0.589	3	7
+Rad52_Rad22	2	0.338	2	3
+YqaJ	3	0.642	5	9
+
+Label legend (short label = last 6 digits of WP number; PRED = new hit):
+  PRED        JAYSEI010000012.1_92_PRED     RecT
+  278594      WP_024278594.1                RecT
+  398801      WP_138398801.1                RecT
+  139126      WP_198139126.1                RecT
+  483246      WP_209483246.1                RecT
+  806764      WP_281806764.1                RecT
+  808287      WP_281808287.1                RecT
+  973284      WP_393973284.1                RecT
+  025370      WP_394025370.1                RecT
+  026029      WP_394026029.1                RecT
+  033910      WP_394033910.1                RecT
+  073417      WP_394073417.1                RecT
+  099849      WP_394099849.1                RecT
+  104532      WP_394104532.1                RecT
+  791316      WP_506791316.1                RecT
+  115656      WP_012115656.1                ERF
+  017110      WP_086017110.1                ERF
+  711131      WP_231711131.1                ERF
+  343911      WP_237343911.1                ERF
+  991514      WP_393991514.1                ERF
+  040770      WP_394040770.1                ERF
+  072322      WP_394072322.1                ERF
+  917350      WP_454917350.1                ERF
+  092462      WP_394092462.1                Rad52_Rad22
+  118250      WP_394118250.1                Rad52_Rad22
+  020410      WP_447020410.1                Rad52_Rad22
+  115653      WP_012115653.1                YqaJ
+  193012      WP_203193012.1                YqaJ
+  343908      WP_237343908.1                YqaJ
+  165911      WP_250165911.1                YqaJ
+  991516      WP_393991516.1                YqaJ
+  026027      WP_394026027.1                YqaJ
+  040766      WP_394040766.1                YqaJ
+  072320      WP_394072320.1                YqaJ
+  073415      WP_394073415.1                YqaJ
+  092881      WP_394092881.1                YqaJ
+  918493      WP_454918493.1                YqaJ

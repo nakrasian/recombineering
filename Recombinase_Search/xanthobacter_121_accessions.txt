@@ -1,0 +1,122 @@
+accession	source	assembly_level	contigs	total_length	proteins
+GCA_002257305.1	GenBank	Scaffold	443	904488	annotated
+GCA_002281045.1	GenBank	Scaffold	162	343889	annotated
+GCA_017849325.1	GenBank	Contig	472	3103055	predicted
+GCA_034676585.1	GenBank	Contig	7	3268224	predicted
+GCA_034676685.1	GenBank	Contig	29	3789900	predicted
+GCA_035911275.1	GenBank	Contig	64	199480	predicted
+GCA_035911315.1	GenBank	Contig	68	3858701	predicted
+GCA_036796195.1	GenBank	Scaffold	992	3746695	predicted
+GCA_041913945.1	GenBank	Scaffold	101	4371119	predicted
+GCA_041915035.1	GenBank	Scaffold	939	4488607	predicted
+GCA_050252035.1	GenBank	Scaffold	25	3262518	annotated
+GCA_061255805.1	GenBank	Complete Genome	2	5617913	annotated
+GCA_937872325.1	GenBank	Contig	347	3999702	predicted
+GCF_000017645.1	RefSeq	Complete Genome	2	5625098	annotated
+GCF_000526175.1	RefSeq	Contig	1	5472264	annotated
+GCF_000702385.1	RefSeq	Contig	1	5339523	annotated
+GCF_003667445.1	RefSeq	Contig	87	4945221	annotated
+GCF_005871085.1	RefSeq	Scaffold	43	5013287	annotated
+GCF_008364685.1	RefSeq	Scaffold	37	5313426	annotated
+GCF_012932745.1	RefSeq	Contig	15	5205840	annotated
+GCF_014206845.1	RefSeq	Scaffold	24	4916900	annotated
+GCF_016807805.1	RefSeq	Complete Genome	5	6650762	annotated
+GCF_017875275.1	RefSeq	Contig	1	5354025	annotated
+GCF_020683165.1	RefSeq	Chromosome	228	5216997	annotated
+GCF_021401105.1	RefSeq	Contig	38	4965351	annotated
+GCF_021401125.1	RefSeq	Contig	36	4965175	annotated
+GCF_021401165.1	RefSeq	Contig	49	4964916	annotated
+GCF_021401185.1	RefSeq	Contig	42	5084994	annotated
+GCF_021401225.1	RefSeq	Contig	32	5108166	annotated
+GCF_021401255.1	RefSeq	Contig	37	4965013	annotated
+GCF_021401295.1	RefSeq	Contig	41	4965872	annotated
+GCF_021401325.1	RefSeq	Contig	34	5103952	annotated
+GCF_021401365.1	RefSeq	Contig	39	4964352	annotated
+GCF_021730305.1	RefSeq	Complete Genome	1	5392410	annotated
+GCF_021730435.1	RefSeq	Contig	66	4812515	annotated
+GCF_022138605.1	RefSeq	Contig	18	4766415	annotated
+GCF_022138625.1	RefSeq	Contig	20	4761004	annotated
+GCF_022213975.1	RefSeq	Scaffold	34	5296455	annotated
+GCF_022833185.1	RefSeq	Contig	24	4823815	annotated
+GCF_023571765.1	RefSeq	Contig	78	5829267	annotated
+GCF_027925205.1	RefSeq	Scaffold	40	5768244	annotated
+GCF_029991245.1	RefSeq	Contig	495	4957027	annotated
+GCF_030015065.1	RefSeq	Contig	594	5043655	annotated
+GCF_030814935.1	RefSeq	Contig	30	4827619	annotated
+GCF_031453955.1	RefSeq	Scaffold	33	5766685	annotated
+GCF_040044995.1	RefSeq	Contig	79	5682590	annotated
+GCF_040049195.1	RefSeq	Contig	22	5238849	annotated
+GCF_040049235.1	RefSeq	Contig	14	5051454	annotated
+GCF_040543585.1	RefSeq	Contig	39	5006504	annotated
+GCF_041911315.1	RefSeq	Contig	93	5422170	annotated
+GCF_043193355.1	RefSeq	Contig	40	5682413	annotated
+GCF_043193365.2	RefSeq	Complete Genome	2	5792128	annotated
+GCF_043193395.1	RefSeq	Contig	70	5828048	annotated
+GCF_043193405.1	RefSeq	Contig	74	5862441	annotated
+GCF_043193415.1	RefSeq	Contig	47	5318496	annotated
+GCF_043193455.1	RefSeq	Contig	59	5761866	annotated
+GCF_043193465.1	RefSeq	Contig	14	5351608	annotated
+GCF_043193535.1	RefSeq	Contig	18	5539068	annotated
+GCF_043193605.1	RefSeq	Contig	22	5382827	annotated
+GCF_043193615.1	RefSeq	Contig	16	5539254	annotated
+GCF_043193655.2	RefSeq	Complete Genome	1	5915835	annotated
+GCF_043193675.1	RefSeq	Contig	52	5698123	annotated
+GCF_043193685.1	RefSeq	Contig	22	5012604	annotated
+GCF_043193705.1	RefSeq	Contig	57	5447698	annotated
+GCF_043193765.1	RefSeq	Contig	68	5329786	annotated
+GCF_043193815.1	RefSeq	Contig	56	4974812	annotated
+GCF_043193855.2	RefSeq	Complete Genome	3	5686141	annotated
+GCF_043193875.1	RefSeq	Contig	57	5088824	annotated
+GCF_043193975.1	RefSeq	Contig	45	4867698	annotated
+GCF_043193995.1	RefSeq	Contig	58	5097375	annotated
+GCF_043194015.1	RefSeq	Contig	38	4786876	annotated
+GCF_043194035.1	RefSeq	Contig	46	4992714	annotated
+GCF_043194045.1	RefSeq	Contig	92	5212621	annotated
+GCF_043194105.1	RefSeq	Contig	100	5295286	annotated
+GCF_043194165.1	RefSeq	Contig	56	5199054	annotated
+GCF_043194195.1	RefSeq	Contig	67	4996894	annotated
+GCF_043194205.1	RefSeq	Contig	56	5006630	annotated
+GCF_043194295.1	RefSeq	Contig	77	4989637	annotated
+GCF_043194315.1	RefSeq	Contig	80	5187097	annotated
+GCF_043194325.1	RefSeq	Contig	100	5223543	annotated
+GCF_043194375.1	RefSeq	Contig	122	5536195	annotated
+GCF_043194415.1	RefSeq	Contig	152	5497250	annotated
+GCF_043194495.1	RefSeq	Contig	107	5559714	annotated
+GCF_043194555.1	RefSeq	Contig	49	4838948	annotated
+GCF_043194565.1	RefSeq	Contig	127	5381958	annotated
+GCF_043194585.1	RefSeq	Contig	65	5129482	annotated
+GCF_043194595.1	RefSeq	Contig	214	5221575	annotated
+GCF_043194675.2	RefSeq	Complete Genome	1	4821320	annotated
+GCF_043194755.2	RefSeq	Complete Genome	1	5400194	annotated
+GCF_043194775.2	RefSeq	Complete Genome	1	4930474	annotated
+GCF_043194795.2	RefSeq	Complete Genome	1	4794383	annotated
+GCF_043194815.1	RefSeq	Contig	39	4702106	annotated
+GCF_043194825.1	RefSeq	Contig	42	4891640	annotated
+GCF_043194835.1	RefSeq	Contig	38	4659405	annotated
+GCF_043194875.1	RefSeq	Contig	69	4519113	annotated
+GCF_043194885.1	RefSeq	Contig	65	4504794	annotated
+GCF_043194895.2	RefSeq	Complete Genome	1	4542729	annotated
+GCF_043194935.1	RefSeq	Contig	82	4742184	annotated
+GCF_043194945.1	RefSeq	Contig	63	4649104	annotated
+GCF_043194975.1	RefSeq	Contig	87	4689756	annotated
+GCF_043194985.2	RefSeq	Complete Genome	1	4858238	annotated
+GCF_043195015.1	RefSeq	Contig	73	4697220	annotated
+GCF_043195025.1	RefSeq	Contig	74	4726079	annotated
+GCF_043195055.1	RefSeq	Contig	77	4725625	annotated
+GCF_043195065.2	RefSeq	Complete Genome	2	5042912	annotated
+GCF_043831965.2	RefSeq	Complete Genome	1	4575730	annotated
+GCF_047444035.1	RefSeq	Contig	2	4770296	annotated
+GCF_047444045.1	RefSeq	Contig	5	5005425	annotated
+GCF_052932325.1	RefSeq	Complete Genome	2	4990319	annotated
+GCF_056313845.1	RefSeq	Scaffold	11	5351406	annotated
+GCF_056314105.1	RefSeq	Scaffold	17	5368899	annotated
+GCF_056314125.1	RefSeq	Contig	14	5387394	annotated
+GCF_056314165.1	RefSeq	Contig	14	5427037	annotated
+GCF_056314205.1	RefSeq	Contig	18	5355467	annotated
+GCF_056314245.1	RefSeq	Contig	17	5393756	annotated
+GCF_057364445.1	RefSeq	Contig	915	4980705	annotated
+GCF_058804905.1	RefSeq	Complete Genome	1	3288908	annotated
+GCF_059569435.1	RefSeq	Scaffold	41	5028997	annotated
+GCF_060823235.1	RefSeq	Scaffold	5	6111379	annotated
+GCF_060823255.1	RefSeq	Complete Genome	2	5625366	annotated
+GCF_977007875.1	RefSeq	Contig	5	5840257	annotated

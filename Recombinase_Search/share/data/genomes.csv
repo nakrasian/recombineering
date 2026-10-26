@@ -1,0 +1,122 @@
+accession,source,level,contigs,length,species,strain,is_tiny
+GCA_002257305.1,GenBank,Scaffold,443,904488,Xanthobacter sp. 17-67-6,,true
+GCA_002281045.1,GenBank,Scaffold,162,343889,Xanthobacter sp. 35-67-6,,true
+GCA_017849325.1,GenBank,Contig,472,3103055,Xanthobacter autotrophicus,,false
+GCA_034676585.1,GenBank,Contig,7,3268224,Xanthobacter sp.,,false
+GCA_034676685.1,GenBank,Contig,29,3789900,Xanthobacter sp.,,false
+GCA_035911275.1,GenBank,Contig,64,199480,Xanthobacter sp.,,true
+GCA_035911315.1,GenBank,Contig,68,3858701,Xanthobacter sp.,,false
+GCA_036796195.1,GenBank,Scaffold,992,3746695,Xanthobacter sp.,,false
+GCA_041913945.1,GenBank,Scaffold,101,4371119,Xanthobacter sp.,,false
+GCA_041915035.1,GenBank,Scaffold,939,4488607,Xanthobacter sp.,,false
+GCA_050252035.1,GenBank,Scaffold,25,3262518,Xanthobacter sp.,,false
+GCA_061255805.1,GenBank,Complete Genome,2,5617913,Xanthobacter wiegelii,NCIMB 11399,false
+GCA_937872325.1,GenBank,Contig,347,3999702,uncultured Xanthobacter sp.,,false
+GCF_000017645.1,RefSeq,Complete Genome,2,5625098,Xanthobacter versatilis,Py2,false
+GCF_000526175.1,RefSeq,Contig,1,5472264,Xanthobacter sp. 126,126,false
+GCF_000702385.1,RefSeq,Contig,1,5339523,Xanthobacter sp. 91,91,false
+GCF_003667445.1,RefSeq,Contig,87,4945221,Xanthobacter tagetidis,ATCC 700314,false
+GCF_005871085.1,RefSeq,Scaffold,43,5013287,Xanthobacter autotrophicus,DSM 432,false
+GCF_008364685.1,RefSeq,Scaffold,37,5313426,Xanthobacter oligotrophicus,29k,false
+GCF_012932745.1,RefSeq,Contig,15,5205840,Xanthobacter sp. SG618,SG618,false
+GCF_014206845.1,RefSeq,Scaffold,24,4916900,Xanthobacter tagetidis,DSM 11105,false
+GCF_016807805.1,RefSeq,Complete Genome,5,6650762,Xanthobacter dioxanivorans,YN2,false
+GCF_017875275.1,RefSeq,Contig,1,5354025,Xanthobacter flavus,WS4821,false
+GCF_020683165.1,RefSeq,Chromosome,228,5216997,Xanthobacter flavus,GJ10,false
+GCF_021401105.1,RefSeq,Contig,38,4965351,Xanthobacter sp. NM-44,NM-44,false
+GCF_021401125.1,RefSeq,Contig,36,4965175,Xanthobacter sp. NM-59,NM-59,false
+GCF_021401165.1,RefSeq,Contig,49,4964916,Xanthobacter sp. R2A-8,R2A-8,false
+GCF_021401185.1,RefSeq,Contig,42,5084994,Xanthobacter sp. NFM-97,NFM-97,false
+GCF_021401225.1,RefSeq,Contig,32,5108166,Xanthobacter sp. NFM-89,NFM-89,false
+GCF_021401255.1,RefSeq,Contig,37,4965013,Xanthobacter sp. NFM-59,NFM-59,false
+GCF_021401295.1,RefSeq,Contig,41,4965872,Xanthobacter sp. NFH-94,NFH-94,false
+GCF_021401325.1,RefSeq,Contig,34,5103952,Xanthobacter sp. NFH-6,NFH-6,false
+GCF_021401365.1,RefSeq,Contig,39,4964352,Xanthobacter sp. NFH-44,NFH-44,false
+GCF_021730305.1,RefSeq,Complete Genome,1,5392410,Xanthobacter sp. YC-JY1,YC-JY1,false
+GCF_021730435.1,RefSeq,Contig,66,4812515,Xanthobacter agilis,LMG 16336,false
+GCF_022138605.1,RefSeq,Contig,18,4766415,Xanthobacter sp. NM-25,NM-25,false
+GCF_022138625.1,RefSeq,Contig,20,4761004,Xanthobacter sp. NFM-26,NFM-26,false
+GCF_022213975.1,RefSeq,Scaffold,34,5296455,Xanthobacter oligotrophicus,BF-7S,false
+GCF_022833185.1,RefSeq,Contig,24,4823815,Xanthobacter sp.,,false
+GCF_023571765.1,RefSeq,Contig,78,5829267,Xanthobacter aminoxidans,ATCC BAA-299,false
+GCF_027925205.1,RefSeq,Scaffold,40,5768244,Xanthobacter flavus,301,false
+GCF_029991245.1,RefSeq,Contig,495,4957027,Xanthobacter autotrophicus,AM5,false
+GCF_030015065.1,RefSeq,Contig,594,5043655,Xanthobacter autotrophicus,AM3,false
+GCF_030814935.1,RefSeq,Contig,30,4827619,Xanthobacter agilis,DSM 3770,false
+GCF_031453955.1,RefSeq,Scaffold,33,5766685,Xanthobacter flavus,DSM 338,false
+GCF_040044995.1,RefSeq,Contig,79,5682590,Xanthobacter pollutisoli,KR7-65,false
+GCF_040049195.1,RefSeq,Contig,22,5238849,Xanthobacter sp. VNH20,VNH20,false
+GCF_040049235.1,RefSeq,Contig,14,5051454,Xanthobacter luteus,KR7-225,false
+GCF_040543585.1,RefSeq,Contig,39,5006504,Xanthobacter viscosus,DSM 21355,false
+GCF_041911315.1,RefSeq,Contig,93,5422170,Xanthobacter sp.,,false
+GCF_043193355.1,RefSeq,Contig,40,5682413,Xanthobacter flavus,V4C-10,false
+GCF_043193365.2,RefSeq,Complete Genome,2,5792128,Xanthobacter flavus,301,false
+GCF_043193395.1,RefSeq,Contig,70,5828048,Xanthobacter flavus,R-10,false
+GCF_043193405.1,RefSeq,Contig,74,5862441,Xanthobacter flavus,V2C-3,false
+GCF_043193415.1,RefSeq,Contig,47,5318496,Xanthobacter flavus,V4C-7,false
+GCF_043193455.1,RefSeq,Contig,59,5761866,Xanthobacter flavus,V4C-9,false
+GCF_043193465.1,RefSeq,Contig,14,5351608,Xanthobacter flavus,SS-22,false
+GCF_043193535.1,RefSeq,Contig,18,5539068,Xanthobacter aminoxidans,CB5,false
+GCF_043193605.1,RefSeq,Contig,22,5382827,Xanthobacter flavus,SS-20,false
+GCF_043193615.1,RefSeq,Contig,16,5539254,Xanthobacter aminoxidans,CB3,false
+GCF_043193655.2,RefSeq,Complete Genome,1,5915835,Xanthobacter aminoxidans,14a,false
+GCF_043193675.1,RefSeq,Contig,52,5698123,Xanthobacter aminoxidans,V7C-9,false
+GCF_043193685.1,RefSeq,Contig,22,5012604,Xanthobacter aminoxidans,V8C-8,false
+GCF_043193705.1,RefSeq,Contig,57,5447698,Xanthobacter wiegelii,CB2,false
+GCF_043193765.1,RefSeq,Contig,68,5329786,Xanthobacter wiegelii,NCIMB 11399,false
+GCF_043193815.1,RefSeq,Contig,56,4974812,Xanthobacter versatilis,V7C-4,false
+GCF_043193855.2,RefSeq,Complete Genome,3,5686141,Xanthobacter wiegelii,RH 10,false
+GCF_043193875.1,RefSeq,Contig,57,5088824,Xanthobacter versatilis,CB6,false
+GCF_043193975.1,RefSeq,Contig,45,4867698,Xanthobacter versatilis,V2C-9,false
+GCF_043193995.1,RefSeq,Contig,58,5097375,Xanthobacter versatilis,V1C-6B,false
+GCF_043194015.1,RefSeq,Contig,38,4786876,Xanthobacter versatilis,V1C-2,false
+GCF_043194035.1,RefSeq,Contig,46,4992714,Xanthobacter versatilis,V7C-1B,false
+GCF_043194045.1,RefSeq,Contig,92,5212621,Xanthobacter versatilis,V3C-4,false
+GCF_043194105.1,RefSeq,Contig,100,5295286,Xanthobacter versatilis,V3C-2,false
+GCF_043194165.1,RefSeq,Contig,56,5199054,Xanthobacter oligotrophicus,23A,false
+GCF_043194195.1,RefSeq,Contig,67,4996894,Xanthobacter autotrophicus,7C SF,false
+GCF_043194205.1,RefSeq,Contig,56,5006630,Xanthobacter autotrophicus,7d,false
+GCF_043194295.1,RefSeq,Contig,77,4989637,Xanthobacter autotrophicus,7C,false
+GCF_043194315.1,RefSeq,Contig,80,5187097,Xanthobacter autotrophicus,CCUG-44692,false
+GCF_043194325.1,RefSeq,Contig,100,5223543,Xanthobacter autotrophicus,NCIMB-11171,false
+GCF_043194375.1,RefSeq,Contig,122,5536195,Xanthobacter autotrophicus,124X,false
+GCF_043194415.1,RefSeq,Contig,152,5497250,Xanthobacter autotrophicus,JW33,false
+GCF_043194495.1,RefSeq,Contig,107,5559714,Xanthobacter autotrophicus,V0C-4,false
+GCF_043194555.1,RefSeq,Contig,49,4838948,Xanthobacter autotrophicus,19/-/x,false
+GCF_043194565.1,RefSeq,Contig,127,5381958,Xanthobacter autotrophicus ATCC 700552,T102,false
+GCF_043194585.1,RefSeq,Contig,65,5129482,Xanthobacter autotrophicus,GZ29,false
+GCF_043194595.1,RefSeq,Contig,214,5221575,Xanthobacter autotrophicus ATCC 700551,T101,false
+GCF_043194675.2,RefSeq,Complete Genome,1,4821320,Xanthobacter lutulentifluminis,V3C-3,false
+GCF_043194755.2,RefSeq,Complete Genome,1,5400194,Xanthobacter nonsaccharivorans,14g,false
+GCF_043194775.2,RefSeq,Complete Genome,1,4930474,Xanthobacter tagetidis,TagT2C,false
+GCF_043194795.2,RefSeq,Complete Genome,1,4794383,Xanthobacter pseudotagetidis,KA,false
+GCF_043194815.1,RefSeq,Contig,39,4702106,Xanthobacter variabilis,V13C-7B,false
+GCF_043194825.1,RefSeq,Contig,42,4891640,Xanthobacter tagetidis,A2,false
+GCF_043194835.1,RefSeq,Contig,38,4659405,Xanthobacter variabilis,V13B-9B,false
+GCF_043194875.1,RefSeq,Contig,69,4519113,Xanthobacter albus,V0B-10,false
+GCF_043194885.1,RefSeq,Contig,65,4504794,Xanthobacter albus,V13C-5,false
+GCF_043194895.2,RefSeq,Complete Genome,1,4542729,Xanthobacter albus,V0C-6,false
+GCF_043194935.1,RefSeq,Contig,82,4742184,Xanthobacter albus,V2C-8,false
+GCF_043194945.1,RefSeq,Contig,63,4649104,Xanthobacter albus,V2C-4,false
+GCF_043194975.1,RefSeq,Contig,87,4689756,Xanthobacter sediminis,V3B-7B,false
+GCF_043194985.2,RefSeq,Complete Genome,1,4858238,Xanthobacter agilis,SA35,false
+GCF_043195015.1,RefSeq,Contig,73,4697220,Xanthobacter sediminis,V8C-5,false
+GCF_043195025.1,RefSeq,Contig,74,4726079,Xanthobacter agilis,MA40,false
+GCF_043195055.1,RefSeq,Contig,77,4725625,Xanthobacter agilis,MA37,false
+GCF_043195065.2,RefSeq,Complete Genome,2,5042912,Xanthobacter cornucopiae,V4C-4,false
+GCF_043831965.2,RefSeq,Complete Genome,1,4575730,Xanthobacter variabilis,V4C-8,false
+GCF_047444035.1,RefSeq,Contig,2,4770296,Xanthobacter sp. AM11,AM11,false
+GCF_047444045.1,RefSeq,Contig,5,5005425,Xanthobacter sp. AM33,AM33,false
+GCF_052932325.1,RefSeq,Complete Genome,2,4990319,Xanthobacter sp. ZOL 2024,ZOL 2024,false
+GCF_056313845.1,RefSeq,Scaffold,11,5351406,Xanthobacter sp. DMC47,DMC47,false
+GCF_056314105.1,RefSeq,Scaffold,17,5368899,Xanthobacter sp. DMC12,DMC12,false
+GCF_056314125.1,RefSeq,Contig,14,5387394,Xanthobacter flavus,DMC11,false
+GCF_056314165.1,RefSeq,Contig,14,5427037,Xanthobacter aminoxidans,DMC9,false
+GCF_056314205.1,RefSeq,Contig,18,5355467,Xanthobacter flavus,DMC7,false
+GCF_056314245.1,RefSeq,Contig,17,5393756,Xanthobacter flavus,DMC5,false
+GCF_057364445.1,RefSeq,Contig,915,4980705,Xanthobacter sp. BG11Y11_SDJG,BG11Y11_SDJG,false
+GCF_058804905.1,RefSeq,Complete Genome,1,3288908,Xanthobacter sp. KGH-2021,KGH-2021,false
+GCF_059569435.1,RefSeq,Scaffold,41,5028997,Xanthobacter autotrophicus,DSM 432,false
+GCF_060823235.1,RefSeq,Scaffold,5,6111379,Xanthobacter flavus,GJ10,false
+GCF_060823255.1,RefSeq,Complete Genome,2,5625366,Xanthobacter versatilis,Py2,false
+GCF_977007875.1,RefSeq,Contig,5,5840257,Xanthobacter sediminis,R-93076,false

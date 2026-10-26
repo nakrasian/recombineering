@@ -1,0 +1,37 @@
+genome	species	strain	label	RecT	ERF	Rad52	exonuclease	system_status
+GCF_000017645.1	Xanthobacter versatilis	Py2	Xanthobacter versatilis (Py2)	1	1	0	1	operon
+GCF_000526175.1	Xanthobacter sp. 126	126	Xanthobacter sp. 126	1	0	0	0	
+GCF_005871085.1	Xanthobacter autotrophicus	DSM 432	Xanthobacter autotrophicus (DSM 432)	1	0	0	0	
+GCF_016807805.1	Xanthobacter dioxanivorans	YN2	Xanthobacter dioxanivorans (YN2)	0	1	0	1	operon
+GCF_017875275.1	Xanthobacter flavus	WS4821	Xanthobacter flavus (WS4821)	1	0	0	0	
+GCF_021730435.1	Xanthobacter agilis	LMG 16336	Xanthobacter agilis (LMG 16336)	0	1	0	1	operon
+GCF_023571765.1	Xanthobacter aminoxidans	ATCC BAA-299	Xanthobacter aminoxidans (ATCC BAA-299)	0	0	0	1	
+GCF_027925205.1	Xanthobacter flavus	301	Xanthobacter flavus (301)	2	0	0	0	
+GCF_030814935.1	Xanthobacter agilis	DSM 3770	Xanthobacter agilis (DSM 3770)	0	1	0	1	operon
+GCF_031453955.1	Xanthobacter flavus	DSM 338	Xanthobacter flavus (DSM 338)	2	0	0	0	
+GCF_040543585.1	Xanthobacter viscosus	DSM 21355	Xanthobacter viscosus (DSM 21355)	1	0	0	0	
+GCF_043193355.1	Xanthobacter flavus	V4C-10	Xanthobacter flavus (V4C-10)	1	0	0	1	operon
+GCF_043193365.2	Xanthobacter flavus	301	Xanthobacter flavus (301)	2	0	0	0	
+GCF_043193395.1	Xanthobacter flavus	R-10	Xanthobacter flavus (R-10)	1	0	0	0	
+GCF_043193455.1	Xanthobacter flavus	V4C-9	Xanthobacter flavus (V4C-9)	1	0	0	0	
+GCF_043193465.1	Xanthobacter flavus	SS-22	Xanthobacter flavus (SS-22)	1	0	0	0	
+GCF_043193605.1	Xanthobacter flavus	SS-20	Xanthobacter flavus (SS-20)	1	0	0	0	
+GCF_043193655.2	Xanthobacter aminoxidans	14a	Xanthobacter aminoxidans (14a)	0	0	0	1	
+GCF_043194035.1	Xanthobacter versatilis	V7C-1B	Xanthobacter versatilis (V7C-1B)	1	0	0	0	
+GCF_043194165.1	Xanthobacter oligotrophicus	23A	Xanthobacter oligotrophicus (23A)	0	1	0	1	operon
+GCF_043194195.1	Xanthobacter autotrophicus	7C SF	Xanthobacter autotrophicus (7C SF)	1	0	0	0	
+GCF_043194205.1	Xanthobacter autotrophicus	7d	Xanthobacter autotrophicus (7d)	1	0	0	0	
+GCF_043194295.1	Xanthobacter autotrophicus	7C	Xanthobacter autotrophicus (7C)	1	0	0	0	
+GCF_043194415.1	Xanthobacter autotrophicus	JW33	Xanthobacter autotrophicus (JW33)	0	0	2	0	
+GCF_043194495.1	Xanthobacter autotrophicus	V0C-4	Xanthobacter autotrophicus (V0C-4)	1	1	0	2	operon
+GCF_043194565.1	Xanthobacter autotrophicus ATCC 700552	T102	Xanthobacter autotrophicus ATCC 700552 (T102)	0	1	0	1	operon
+GCF_043194675.2	Xanthobacter lutulentifluminis	V3C-3	Xanthobacter lutulentifluminis (V3C-3)	0	0	2	0	
+GCF_043194875.1	Xanthobacter albus	V0B-10	Xanthobacter albus (V0B-10)	1	0	0	0	
+GCF_043194885.1	Xanthobacter albus	V13C-5	Xanthobacter albus (V13C-5)	1	0	0	0	
+GCF_043194895.2	Xanthobacter albus	V0C-6	Xanthobacter albus (V0C-6)	1	0	0	0	
+GCF_043194935.1	Xanthobacter albus	V2C-8	Xanthobacter albus (V2C-8)	0	0	0	1	
+GCF_043194985.2	Xanthobacter agilis	SA35	Xanthobacter agilis (SA35)	0	1	0	1	operon
+GCF_052932325.1	Xanthobacter sp. ZOL 2024	ZOL 2024	Xanthobacter sp. ZOL 2024	0	0	1	0	
+GCF_059569435.1	Xanthobacter autotrophicus	DSM 432	Xanthobacter autotrophicus (DSM 432)	1	0	0	0	
+GCF_060823255.1	Xanthobacter versatilis	Py2	Xanthobacter versatilis (Py2)	1	1	0	1	operon
+GCF_977007875.1	Xanthobacter sediminis	R-93076	Xanthobacter sediminis (R-93076)	0	1	0	1	operon

@@ -1,0 +1,39 @@
+accession	name	phage_host	n_proteins	RecT	ERF	Rad52_Rad22	Sak	YqaJ	Gam	hmm_ssap	hmm_exo	psib_ssap	psib_seeds	system
+NC_003309	NC_003309.1 Burkholderia phage phiE125	Burkho	73	0	0	0	0	0	0	0	0	0		
+NC_003324	NC_003324.1 Sinorhizobium phage PBC5	Sinorh	64	0	0	0	0	0	0	0	0	0		
+NC_006820	NC_006820.1 Synechococcus phage S-PM2	Synechococcus	226	0	0	0	0	0	0	0	0	0		
+NC_007497	NC_007497.1 Burkholderia phage Bcep176	Burkho	71	0	0	0	0	0	0	0	0	0		
+NC_010355	NC_010355.1 Azospirillum phage Cd	Azospi	112	0	0	0	0	0	0	0	0	0		
+NC_014767	NC_014767.1 Micromonas sp. RCC1109 virus MpV1	Micromonas	248	0	0	0	0	1	0	0	1	0		exo-only
+NC_016767	NC_016767.1 Erwinia phage PEp14	Erwini	63	0	0	0	0	0	0	0	0	0		
+NC_020866	NC_020866.1 Rhodovulum phage RS1 genomic sequence	Rhodov	54	0	0	0	0	0	0	0	0	0		
+NC_021070	NC_021070.1 Vibrio phage martha 12B12 genomic sequence	Vibrio	51	0	0	0	0	0	0	0	0	0		
+NC_021560	NC_021560.1 Rhizobium phage RR1-A genomic sequence	Rhizob	71	0	0	0	0	0	0	0	0	0		
+NC_023566	NC_023566.1 Rhizobium phage vB_RglS_P106B	Rhizob	85	0	0	0	0	0	0	0	0	0		
+NC_023612	NC_023612.1 Geobacillus phage GBK2	Geobac	57	1	0	0	0	1	0	1	1	1	P33228,Q7N2Y8	SSAP+exo
+NC_025431	NC_025431.1 Mesorhizobium phagevB_MloP_Lo5R7ANS	Mesorh	64	0	0	0	0	0	0	0	0	0		
+NC_025463	NC_025463.1 Shewanella sp. phage 1/44	Shewan	67	0	0	0	0	0	0	0	0	0		
+NC_027334	NC_027334.1 Aurantimonas phage AmM-1 DNA	Aurant	68	0	0	0	0	0	0	0	0	0		
+NC_028699	NC_028699.1 Salmonella phage SEN34	Salmon	57	1	0	0	0	1	1	1	1	1	P03698,Q7N2Y8	SSAP+exo
+NC_029066	NC_029066.1 Pseudomonas phage PS-1 DNA	Pseudo	81	1	0	0	0	1	0	1	1	1	P03698,Q7N2Y8	SSAP+exo
+NC_031059	NC_031059.1 Rhodovulum phage vB_RhkS_P1	Rhodov	58	0	0	0	0	0	0	0	0	0		
+NC_031245	NC_031245.1 Bacillus phage SP-15	NC_031245.1	311	0	0	0	0	0	0	0	0	0		
+NC_031264	NC_031264.1 Brucella phage BiPBO1	Brucel	79	0	0	0	0	0	0	0	0	0		
+NC_031940	NC_031940.1 Salmonella phage 118970_sal3	Salmon	128	0	0	0	0	0	0	0	0	0		
+NC_041868	NC_041868.1 Paracoccus phage Shpa	Paraco	62	0	1	0	0	1	0	1	1	0		SSAP+exo
+NC_041921	NC_041921.1 Dinoroseobacter phage vB_DshS-R5C	Dinoro	123	0	0	1	0	0	0	1	0	0		SSAP-only
+NC_042013	NC_042013.1 Agrobacterium phage Atu_ph07	Agrobacterium	837	0	0	0	0	0	0	0	0	0		
+NC_042049	NC_042049.1 Rhodobacter phage RcCronus	Rhodob	45	0	0	0	0	0	0	0	0	0		
+NC_042128	NC_042128.1 Escherichia phage RCS47	Escher	127	0	0	0	0	0	0	0	0	0		
+NC_047738	NC_047738.1 Rhizobium phage RHEph01	Rhizob	50	0	0	0	0	0	0	0	0	0		
+NC_047756	NC_047756.1 Caulobacter phage Sansa	Caulob	118	1	0	0	0	0	0	1	0	1	P33228,Q7N2Y8	SSAP-only
+NC_048758	NC_048758.1 Serratia phage Parlo	Serrat	81	0	0	0	0	0	0	0	0	0		
+NC_048848	NC_048848.1 Butyrivibrio phage Arawn	NC_048848.1	51	0	0	0	0	0	0	0	0	0		
+NC_070768	NC_070768.1 Arthrobacter phage Kumotta	Arthrobacter	70	0	0	0	0	1	0	0	1	0		exo-only
+NC_070786	NC_070786.1 Streptomyces phage Muntaha	Streptomyces	219	0	0	0	0	0	0	0	0	0		
+NC_070954	NC_070954.1 Burkholderia phage Magia	Burkholderia	62	1	0	0	0	0	0	1	0	0		SSAP-only
+NC_070955	NC_070955.1 Burkholderia phage BgManors32	Burkholderia	87	0	0	0	0	0	0	0	0	0		
+NC_070967	NC_070967.1 Rhizobium phage RHph_Y65	Rhizobium	367	0	0	0	0	0	0	0	0	0		
+NC_070969	NC_070969.1 Pseudomonas phage Itty13	Pseudomonas	80	0	1	0	0	0	0	1	0	0		SSAP-only
+NC_074662	NC_074662.1 Pseudomonas phage PP9W2	Pseudomonas	93	1	0	0	0	1	0	1	1	1	P03698,Q7N2Y8	SSAP+exo
+NC_106233	NC_106233.1 Burkholderia phage Musica	Burkholderia	46	0	0	0	0	0	0	0	0	0		

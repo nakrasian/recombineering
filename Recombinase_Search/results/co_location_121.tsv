@@ -1,0 +1,255 @@
+OPERON CO-LOCATION (SSAP = RecT/ERF/Rad52 ; EXO = YqaJ)  [121-genome set]
+====================================================================================================
+
+### GCF_000017645.1: 2 SSAP, 1 exo
+  SSAP RecT        NC_009720.1:4,026,962-4,028,023 (-)  XAUT_RS26210    WP_198139126.1  E=1.0e-05  recombinase RecT
+  EXO  YqaJ        NC_009720.1:4,088,271-4,088,900 (-)  XAUT_RS18640    WP_012115653.1  E=8.3e-16  YqaJ viral recombinase family protein
+  SSAP ERF         NC_009720.1:4,091,071-4,091,769 (-)  XAUT_RS18660    WP_086017110.1  E=9.6e-14  ERF family protein
+  -- SSAP<->EXO pairs within 5 kb --
+    ERF(WP_086017110.1) 4091071-4091769 -  <->  YqaJ(WP_012115653.1) 4088271-4088900 -   gap=2171 bp  [SAME]
+
+### GCF_000526175.1: 1 SSAP, 0 exo
+  SSAP RecT        NZ_JAFO01000001.1:2,238,311-2,239,489 (-)  XAN126_RS27095  WP_024278594.1  E=5.1e-32  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_005871085.1: 1 SSAP, 0 exo
+  SSAP RecT        NZ_VAUP01000015.1:  531,265-  532,365 (+)  FBQ73_RS07270   WP_138398801.1  E=1.1e-06  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_016807805.1: 1 SSAP, 1 exo
+  SSAP ERF         NZ_CP063362.1:5,281,269-5,282,078 (+)  EZH22_RS24655   WP_231711131.1  E=1.9e-14  ERF family protein
+  EXO  YqaJ        NZ_CP063362.1:5,283,096-5,283,719 (+)  EZH22_RS24665   WP_203193012.1  E=2.3e-15  lambda exonuclease family protein
+  -- SSAP<->EXO pairs within 5 kb --
+    ERF(WP_231711131.1) 5281269-5282078 +  <->  YqaJ(WP_203193012.1) 5283096-5283719 +   gap=1018 bp  [SAME]
+
+### GCF_017875275.1: 1 SSAP, 0 exo
+  SSAP RecT        NZ_JAGGML010000001.1:  160,437-  161,615 (+)  J2126_RS00800   WP_209483246.1  E=1.2e-32  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_021730435.1: 1 SSAP, 1 exo
+  EXO  YqaJ        NZ_JABWGX010000001.1:  250,207-  250,827 (-)  HUW53_RS01230   WP_237343908.1  E=1.0e-16  lambda exonuclease family protein
+  SSAP ERF         NZ_JABWGX010000001.1:  252,400-  253,245 (-)  HUW53_RS01245   WP_237343911.1  E=2.9e-12  ERF family protein
+  -- SSAP<->EXO pairs within 5 kb --
+    ERF(WP_237343911.1) 252400-253245 -  <->  YqaJ(WP_237343908.1) 250207-250827 -   gap=1573 bp  [SAME]
+
+### GCF_023571765.1: 0 SSAP, 1 exo
+  EXO  YqaJ        NZ_JAMJXC010000004.1:   39,981-   40,973 (+)  EJ105_RS07975   WP_250165911.1  E=3.4e-10  YqaJ viral recombinase family nuclease
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_027925205.1: 2 SSAP, 0 exo
+  SSAP RecT        NZ_BSDO01000002.1:  223,705-  224,883 (-)  QMG57_RS07700   WP_281806764.1  E=2.0e-32  recombinase RecT
+  SSAP RecT        NZ_BSDO01000004.1:  337,170-  338,450 (-)  QMG57_RS15615   WP_281808287.1  E=2.8e-30  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_030814935.1: 1 SSAP, 1 exo
+  SSAP ERF         NZ_JAUSVY010000006.1:   17,163-   18,008 (+)  QOZ94_RS13810   WP_237343911.1  E=2.9e-12  ERF family protein
+  EXO  YqaJ        NZ_JAUSVY010000006.1:   19,581-   20,201 (+)  QOZ94_RS13825   WP_237343908.1  E=1.0e-16  lambda exonuclease family protein
+  -- SSAP<->EXO pairs within 5 kb --
+    ERF(WP_237343911.1) 17163-18008 +  <->  YqaJ(WP_237343908.1) 19581-20201 +   gap=1573 bp  [SAME]
+
+### GCF_031453955.1: 2 SSAP, 0 exo
+  SSAP RecT        NZ_JAVDPY010000001.1:  867,939-  869,117 (+)  GGQ86_RS04200   WP_281806764.1  E=2.0e-32  recombinase RecT
+  SSAP RecT        NZ_JAVDPY010000005.1:  122,909-  124,189 (+)  GGQ86_RS14950   WP_281808287.1  E=2.8e-30  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_040543585.1: 1 SSAP, 0 exo
+  SSAP RecT        NZ_JBEUNA010000001.1:  242,187-  243,287 (-)  ABID33_RS01090  WP_138398801.1  E=1.1e-06  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043193355.1: 1 SSAP, 1 exo
+  EXO  YqaJ        NZ_JBAFUJ010000001.1:  226,948-  227,940 (+)  V5F27_RS01200   WP_394026027.1  E=9.6e-11  YqaJ viral recombinase family nuclease
+  SSAP RecT        NZ_JBAFUJ010000001.1:  228,386-  229,699 (+)  V5F27_RS01210   WP_394026029.1  E=1.1e-07  recombinase family protein
+  -- SSAP<->EXO pairs within 5 kb --
+    RecT(WP_394026029.1) 228386-229699 +  <->  YqaJ(WP_394026027.1) 226948-227940 +   gap=446 bp  [SAME]
+
+### GCF_043193365.2: 2 SSAP, 0 exo
+  SSAP RecT        NZ_CM195528.1:4,919,028-4,920,206 (+)  V5F82_RS23085   WP_281806764.1  E=2.0e-32  recombinase RecT
+  SSAP RecT        NZ_CM195528.1:5,268,112-5,269,392 (+)  V5F82_RS24740   WP_281808287.1  E=2.8e-30  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043193395.1: 1 SSAP, 0 exo
+  SSAP RecT        NZ_JBAFUK010000012.1:   42,147-   43,259 (+)  V5F79_RS22410   WP_394025370.1  E=1.1e-06  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043193455.1: 1 SSAP, 0 exo
+  SSAP RecT        NZ_JBAFUO010000001.1:  685,104-  686,102 (+)  V5F60_RS03160   WP_394104532.1  E=2.0e-28  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043193465.1: 1 SSAP, 0 exo
+  SSAP RecT        NZ_JBAFUP010000002.1:  152,585-  153,763 (-)  V5F36_RS06915   WP_393973284.1  E=4.8e-33  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043193605.1: 1 SSAP, 0 exo
+  SSAP RecT        NZ_JBAFUQ010000010.1:    3,507-    4,685 (-)  V5F72_RS23885   WP_393973284.1  E=4.8e-33  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043193655.2: 0 SSAP, 1 exo
+  EXO  YqaJ        NZ_CM195527.1:2,793,611-2,794,603 (+)  V5F57_RS13460   WP_250165911.1  E=3.4e-10  YqaJ viral recombinase family nuclease
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043194035.1: 1 SSAP, 0 exo
+  SSAP RecT        NZ_JBAFVE010000007.1:  310,416-  311,519 (+)  V5F28_RS15835   WP_394099849.1  E=1.2e-05  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043194165.1: 1 SSAP, 1 exo
+  SSAP ERF         NZ_JBAFVH010000002.1:  452,980-  453,828 (+)  V5F32_RS05090   WP_393991514.1  E=3.4e-14  ERF family protein
+  EXO  YqaJ        NZ_JBAFVH010000002.1:  454,847-  455,470 (+)  V5F32_RS05100   WP_393991516.1  E=5.1e-15  lambda exonuclease family protein
+  -- SSAP<->EXO pairs within 5 kb --
+    ERF(WP_393991514.1) 452980-453828 +  <->  YqaJ(WP_393991516.1) 454847-455470 +   gap=1019 bp  [SAME]
+
+### GCF_043194195.1: 1 SSAP, 0 exo
+  SSAP RecT        NZ_JBAFVJ010000001.1:  531,138-  532,238 (+)  V5F54_RS02525   WP_138398801.1  E=1.1e-06  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043194205.1: 1 SSAP, 0 exo
+  SSAP RecT        NZ_JBAFVI010000001.1:  531,138-  532,238 (+)  V5F25_RS02525   WP_138398801.1  E=1.1e-06  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043194295.1: 1 SSAP, 0 exo
+  SSAP RecT        NZ_JBAFVK010000001.1:  531,138-  532,238 (+)  V5F64_RS02525   WP_138398801.1  E=1.1e-06  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043194415.1: 1 SSAP, 0 exo
+  SSAP Rad52_Rad22 NZ_JBAFVN010000021.1:    3,719-    4,411 (+)  V5F46_RS20385   WP_394092462.1  E=3.4e-08  Rad52/Rad22 family DNA repair protein
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043194495.1: 2 SSAP, 2 exo
+  EXO  YqaJ        NZ_JBAFVP010000001.1:  181,016-  181,645 (-)  V5F34_RS00835   WP_394072320.1  E=1.0e-17  lambda exonuclease family protein
+  SSAP ERF         NZ_JBAFVP010000001.1:  181,642-  182,400 (-)  V5F34_RS00840   WP_394072322.1  E=1.7e-11  ERF family protein
+  EXO  YqaJ        NZ_JBAFVP010000004.1:   39,699-   40,691 (+)  V5F34_RS08710   WP_394073415.1  E=8.7e-08  YqaJ viral recombinase family nuclease
+  SSAP RecT        NZ_JBAFVP010000004.1:   41,137-   42,462 (+)  V5F34_RS08720   WP_394073417.1  E=8.2e-06  hypothetical protein
+  -- SSAP<->EXO pairs within 5 kb --
+    ERF(WP_394072322.1) 181642-182400 -  <->  YqaJ(WP_394072320.1) 181016-181645 -   gap=0 bp  [SAME]
+    RecT(WP_394073417.1) 41137-42462 +  <->  YqaJ(WP_394073415.1) 39699-40691 +   gap=446 bp  [SAME]
+
+### GCF_043194565.1: 1 SSAP, 1 exo
+  EXO  YqaJ        NZ_JBAFVS010000004.1:   21,755-   22,378 (-)  V5F48_RS05200   WP_394040766.1  E=1.2e-14  lambda exonuclease family protein
+  SSAP ERF         NZ_JBAFVS010000004.1:   23,924-   24,772 (-)  V5F48_RS05215   WP_394040770.1  E=1.1e-13  ERF family protein
+  -- SSAP<->EXO pairs within 5 kb --
+    ERF(WP_394040770.1) 23924-24772 -  <->  YqaJ(WP_394040766.1) 21755-22378 -   gap=1546 bp  [SAME]
+
+### GCF_043194675.2: 1 SSAP, 0 exo
+  SSAP Rad52_Rad22 NZ_CM195525.1:3,924,765-3,925,460 (-)  V5F49_RS18025   WP_394118250.1  E=1.4e-08  Rad52/Rad22 family DNA repair protein
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043194875.1: 1 SSAP, 0 exo
+  SSAP RecT        NZ_JBAFWC010000002.1:  284,608-  285,858 (+)  V5F38_RS05320   WP_394033910.1  E=2.7e-33  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043194885.1: 1 SSAP, 0 exo
+  SSAP RecT        NZ_JBAFWD010000002.1:  223,413-  224,663 (-)  V5F52_RS04225   WP_394033910.1  E=2.7e-33  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043194895.2: 1 SSAP, 0 exo
+  SSAP RecT        NZ_CM195532.1:3,703,772-3,705,022 (+)  V5F75_RS16700   WP_394033910.1  E=2.7e-33  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043194935.1: 0 SSAP, 1 exo
+  EXO  YqaJ        NZ_JBAFWF010000028.1:   16,148-   16,939 (-)  V5F44_RS20560   WP_394092881.1  E=8.3e-09  YqaJ viral recombinase family protein
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_043194985.2: 1 SSAP, 1 exo
+  EXO  YqaJ        NZ_CM195530.1:1,390,378-1,390,998 (-)  V5F56_RS06220   WP_237343908.1  E=1.0e-16  lambda exonuclease family protein
+  SSAP ERF         NZ_CM195530.1:1,392,571-1,393,416 (-)  V5F56_RS06235   WP_237343911.1  E=2.9e-12  ERF family protein
+  -- SSAP<->EXO pairs within 5 kb --
+    ERF(WP_237343911.1) 1392571-1393416 -  <->  YqaJ(WP_237343908.1) 1390378-1390998 -   gap=1573 bp  [SAME]
+
+### GCF_052932325.1: 1 SSAP, 0 exo
+  SSAP Rad52_Rad22 NZ_CM128808.1:  312,523-  313,260 (+)  ACU4E7_RS01605  WP_447020410.1  E=8.4e-12  Rad52/Rad22 family DNA repair protein
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_059569435.1: 1 SSAP, 0 exo
+  SSAP RecT        NZ_JCANVO010000001.1:  531,375-  532,475 (+)  APS12_RS02535   WP_138398801.1  E=1.1e-06  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    (none)
+
+### GCF_060823255.1: 2 SSAP, 1 exo
+  SSAP ERF         NZ_CM194389.1:4,183,878-4,184,732 (+)  AC7W43_RS19560  WP_012115656.1  E=1.6e-13  ERF family protein
+  EXO  YqaJ        NZ_CM194389.1:4,186,903-4,187,532 (+)  AC7W43_RS19575  WP_012115653.1  E=8.3e-16  lambda exonuclease family protein
+  SSAP RecT        NZ_CM194389.1:4,247,784-4,248,845 (+)  AC7W43_RS20030  WP_506791316.1  E=7.6e-06  recombinase RecT
+  -- SSAP<->EXO pairs within 5 kb --
+    ERF(WP_012115656.1) 4183878-4184732 +  <->  YqaJ(WP_012115653.1) 4186903-4187532 +   gap=2171 bp  [SAME]
+
+### GCF_977007875.1: 1 SSAP, 1 exo
+  SSAP ERF         NZ_CDRMWG010000001.1:3,341,653-3,342,507 (+)  ACWTN0_RS15485  WP_454917350.1  E=3.2e-15  ERF family protein
+  EXO  YqaJ        NZ_CDRMWG010000001.1:3,343,534-3,344,157 (+)  ACWTN0_RS15495  WP_454918493.1  E=3.3e-14  lambda exonuclease family protein
+  -- SSAP<->EXO pairs within 5 kb --
+    ERF(WP_454917350.1) 3341653-3342507 +  <->  YqaJ(WP_454918493.1) 3343534-3344157 +   gap=1027 bp  [SAME]
+
+====================================================================================================
+SUMMARY — co-located SSAP+exo systems: 12  |  unplaced (no GFF): 1
+====================================================================================================
+Co-located systems (operon-like, same strand = SAME):
+  GCF_000017645.1       ERF         WP_086017110.1  +  YqaJ  WP_012115653.1  gap=2171 bp  [SAME]
+  GCF_016807805.1       ERF         WP_231711131.1  +  YqaJ  WP_203193012.1  gap=1018 bp  [SAME]
+  GCF_021730435.1       ERF         WP_237343911.1  +  YqaJ  WP_237343908.1  gap=1573 bp  [SAME]
+  GCF_030814935.1       ERF         WP_237343911.1  +  YqaJ  WP_237343908.1  gap=1573 bp  [SAME]
+  GCF_043193355.1       RecT        WP_394026029.1  +  YqaJ  WP_394026027.1  gap= 446 bp  [SAME]
+  GCF_043194165.1       ERF         WP_393991514.1  +  YqaJ  WP_393991516.1  gap=1019 bp  [SAME]
+  GCF_043194495.1       ERF         WP_394072322.1  +  YqaJ  WP_394072320.1  gap=   0 bp  [SAME]
+  GCF_043194495.1       RecT        WP_394073417.1  +  YqaJ  WP_394073415.1  gap= 446 bp  [SAME]
+  GCF_043194565.1       ERF         WP_394040770.1  +  YqaJ  WP_394040766.1  gap=1546 bp  [SAME]
+  GCF_043194985.2       ERF         WP_237343911.1  +  YqaJ  WP_237343908.1  gap=1573 bp  [SAME]
+  GCF_060823255.1       ERF         WP_012115656.1  +  YqaJ  WP_012115653.1  gap=2171 bp  [SAME]
+  GCF_977007875.1       ERF         WP_454917350.1  +  YqaJ  WP_454918493.1  gap=1027 bp  [SAME]
+
+Standalone SSAPs (no exo within 5 kb):
+  GCF_000017645.1       RecT        WP_198139126.1
+  GCF_000526175.1       RecT        WP_024278594.1
+  GCF_005871085.1       RecT        WP_138398801.1
+  GCF_017875275.1       RecT        WP_209483246.1
+  GCF_027925205.1       RecT        WP_281806764.1
+  GCF_027925205.1       RecT        WP_281808287.1
+  GCF_031453955.1       RecT        WP_281806764.1
+  GCF_031453955.1       RecT        WP_281808287.1
+  GCF_040543585.1       RecT        WP_138398801.1
+  GCF_043193365.2       RecT        WP_281806764.1
+  GCF_043193365.2       RecT        WP_281808287.1
+  GCF_043193395.1       RecT        WP_394025370.1
+  GCF_043193455.1       RecT        WP_394104532.1
+  GCF_043193465.1       RecT        WP_393973284.1
+  GCF_043193605.1       RecT        WP_393973284.1
+  GCF_043194035.1       RecT        WP_394099849.1
+  GCF_043194195.1       RecT        WP_138398801.1
+  GCF_043194205.1       RecT        WP_138398801.1
+  GCF_043194295.1       RecT        WP_138398801.1
+  GCF_043194415.1       Rad52_Rad22 WP_394092462.1
+  GCF_043194675.2       Rad52_Rad22 WP_394118250.1
+  GCF_043194875.1       RecT        WP_394033910.1
+  GCF_043194885.1       RecT        WP_394033910.1
+  GCF_043194895.2       RecT        WP_394033910.1
+  GCF_052932325.1       Rad52_Rad22 WP_447020410.1
+  GCF_059569435.1       RecT        WP_138398801.1
+  GCF_060823255.1       RecT        WP_506791316.1
+
+Standalone exonucleases (no SSAP within 5 kb):
+  GCF_023571765.1       YqaJ        WP_250165911.1
+  GCF_043193655.2       YqaJ        WP_250165911.1
+  GCF_043194935.1       YqaJ        WP_394092881.1
+
+Unplaced (no GFF; e.g. pyrodigal-predicted):
+  GCA_041913945.1       RecT        JAYSEI010000012.1_92_PRED  E=6e-28

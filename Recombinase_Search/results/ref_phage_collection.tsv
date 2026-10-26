@@ -1,0 +1,39 @@
+accession	name	host_type	blastn_regions	blastn_sum_bitscore	blastn_max_bitscore	blastn_max_pident	blastn_max_coverage	phastest_regions	phastest_cds_hits	phastest_sum_neglog10e	phastest_num_genomes	both_methods	recomb_system	RecT	ERF	Rad52	Sak	Gam	YqaJ
+NC_025431	NC_025431.1 Mesorhizobium phagevB_MloP_Lo5R7ANS	Mesorh	3	1831	745	71.5	0.06	3	34	3649.7	4	Y		0	0	0	0	0	0
+NC_010355	NC_010355.1 Azospirillum phage Cd	Azospi	4	1633	595	73.9	0.04	6	42	2080.7	13	Y		0	0	0	0	0	0
+NC_028699	PHAGE_Salmon_SEN34_NC_028699	Salmon	0	0	0	0.0	0.00	6	100	3464.3	6		SSAP+exo	1	0	0	0	1	1
+NC_007497	NC_007497.1 Burkholderia phage Bcep176	Burkho	19	2999	256	72.6	0.03	0	1	154.9	1								
+NC_027334	NC_027334.1 Aurantimonas phage AmM-1 DNA	Aurant	1	531	531	71.7	0.04	1	30	1582.6	8	Y		0	0	0	0	0	0
+NC_031264	PHAGE_Brucel_BiPBO1_NC_031264	Brucel	1	74	74	73.2	0.01	3	53	1561.2	19	Y		0	0	0	0	0	0
+NC_047738	NC_047738.1 Rhizobium phage RHEph01	Rhizob	1	405	405	68.6	0.02	2	15	1202.9	4	Y		0	0	0	0	0	0
+NC_041868	NC_041868.1 Paracoccus phage Shpa	Paraco	1	192	192	72.7	0.01	0	40	1353.7	17		SSAP+exo	0	1	0	0	0	1
+NC_070954	NC_070954.1 Burkholderia phage Magia	Burkholderia	5	1508	374	68.2	0.05	0	0	0.0	0								
+NC_020866	PHAGE_Rhodov_RS1_NC_020866	Rhodov	0	0	0	0.0	0.00	1	24	1502.4	6			0	0	0	0	0	0
+NC_031059	NC_031059.1 Rhodovulum phage vB_RhkS_P1	Rhodov	2	990	495	69.9	0.04	0	5	369.7	3			0	0	0	0	0	0
+NC_042049	PHAGE_Rhodob_RcCronus_NC_042049	Rhodob	0	0	0	0.0	0.00	13	19	1226.1	18			0	0	0	0	0	0
+NC_041921	PHAGE_Dinoro_vB_DshS_R5C_NC_041921	Dinoro	1	106	106	70.2	0.02	4	21	1094.7	15	Y	SSAP-only	0	0	1	0	0	0
+NC_021560	PHAGE_Rhizob_RR1_A_NC_021560	Rhizob	1	181	181	67.2	0.01	3	19	1002.5	6	Y		0	0	0	0	0	0
+NC_070969	NC_070969.1 Pseudomonas phage Itty13	Pseudomonas	2	1160	790	70.4	0.08	0	0	0.0	0								
+NC_023612	PHAGE_Geobac_GBK2_NC_023612	Geobac	0	0	0	0.0	0.00	1	26	1050.5	15		SSAP+exo	1	0	0	0	0	1
+NC_016767	NC_016767.1 Erwinia phage PEp14	Erwini	1	527	527	66.6	0.04	0	1	300.0	1								
+NC_029066	NC_029066.1 Pseudomonas phage PS-1 DNA	Pseudo	2	513	297	70.9	0.03	0	6	168.0	5		SSAP+exo	1	0	0	0	0	1
+NC_048758	PHAGE_Serrat_Parlo_NC_048758	Serrat	1	88	88	80.6	0.01	1	3	487.1	2	Y							
+NC_003324	PHAGE_Sinorh_PBC5_NC_003324	Sinorh	1	100	100	76.9	0.00	1	9	298.1	5	Y		0	0	0	0	0	0
+NC_021070	PHAGE_Vibrio_12B12_NC_021070	Vibrio	0	0	0	0.0	0.00	1	4	361.2	2								
+NC_023566	PHAGE_Rhizob_vB_RglS_P106B_NC_023566	Rhizob	0	0	0	0.0	0.00	4	15	352.3	11			0	0	0	0	0	0
+NC_074662	NC_074662.1 Pseudomonas phage PP9W2	Pseudomonas	1	285	285	68.1	0.02	0	0	0.0	0								
+NC_070955	NC_070955.1 Burkholderia phage BgManors32	Burkholderia	1	269	269	68.2	0.04	0	0	0.0	0								
+NC_003309	NC_003309.1 Burkholderia phage phiE125	Burkho	1	165	165	74.2	0.01	0	2	72.7	2								
+NC_047756	PHAGE_Caulob_Sansa_NC_047756	Caulob	0	0	0	0.0	0.00	1	5	225.6	5		SSAP-only	1	0	0	0	0	0
+NC_106233	NC_106233.1 Burkholderia phage Musica	Burkholderia	1	179	179	66.9	0.05	0	0	0.0	0								
+NC_042128	PHAGE_Escher_RCS47_NC_042128	Escher	0	0	0	0.0	0.00	1	2	143.8	2								
+NC_070967	NC_070967.1 Rhizobium phage RHph_Y65	Rhizobium	1	102	102	80.7	0.00	0	0	0.0	0								
+NC_006820	NC_006820.1 Synechococcus phage S-PM2	Synechococcus	1	100	100	85.1	0.00	0	0	0.0	0								
+NC_014767	NC_014767.1 Micromonas sp. RCC1109 virus MpV1	Micromonas	1	96	96	66.3	0.02	0	0	0.0	0								
+NC_070786	NC_070786.1 Streptomyces phage Muntaha	Streptomyces	1	84	84	90.5	0.00	0	0	0.0	0								
+NC_042013	NC_042013.1 Agrobacterium phage Atu_ph07	Agrobacterium	1	83	83	80.4	0.00	0	0	0.0	0								
+NC_025463	PHAGE_Shewan_1/44_NC_025463	Shewan	0	0	0	0.0	0.00	1	2	77.1	2								
+NC_070768	NC_070768.1 Arthrobacter phage Kumotta	Arthrobacter	1	73	73	76.8	0.01	0	0	0.0	0								
+NC_031940	PHAGE_Salmon_118970_sal3_NC_031940	Salmon	0	0	0	0.0	0.00	4	2	20.6	2								
+NC_048848	PHAGE_Butyri_Arawn_NC_048848		0	0	0	0.0	0.00	1	0	0.0	0								
+NC_031245	PHAGE_Bacill_SP_15_NC_031245		0	0	0	0.0	0.00	1	0	0.0	0								
